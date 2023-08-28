@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My self Mukesh Rajbhar</h2>
+<h2 align="left">Hello, My self Mukesh Rajbhar</h2>
 
 ###
 
@@ -35,26 +35,19 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/hrithik.keswani/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/channels/Hrithik#5061" target="_blank">
+<!--   <a href="https://discord.com/channels/Hrithik#5061" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/hrithik-keswani200/" target="_blank">
+  </a> -->
+  <a href="https://www.linkedin.com/in/mukesh-rajbhar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://linktr.ee/hrithikkeswani" target="_blank">
+<!--   <a href="https://linktr.ee/hrithikkeswani" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
+  </a> -->
 </div>
 
 ###
 
 <br clear="both">
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=hrithikkeswani200&theme=gruvbox_light" alt="Layout with last medium posts"  />
-</div>
 
 ###
